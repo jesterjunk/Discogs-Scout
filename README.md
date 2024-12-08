@@ -1,3 +1,11 @@
+### THIS REPOSITORY IS A COPY<br>of the original repository<br>as it was at this date and time: &nbsp;&nbsp; 2024-11-28T20:01:42.000Z &nbsp;&nbsp; Nov 28, 2024, 8:01 PM UTC
+
+The original repository can be browsed at this specific date and time point with [**this url**](https://github.com/Purfview/Discogs-Scout/tree/d2b20747f4467154ba0095822080e544549516be).
+
+If you want the latest updates, visit the [original repository for Discogs-Scout](https://github.com/Purfview/Discogs-Scout)
+
+<hr><br>
+
 ![alt text](https://raw.githubusercontent.com/jesterjunk/Discogs-Scout/refs/heads/master/FFUvusd.png)
 
 # Discogs Scout:
